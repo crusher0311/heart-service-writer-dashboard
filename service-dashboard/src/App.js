@@ -1,6 +1,6 @@
 import React from 'react';
 import ServiceWriterDashboard from './ServiceWriterDashboard';
-import './index.css';
+import './App.css';
 
 function App() {
   return (
